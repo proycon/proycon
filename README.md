@@ -1,7 +1,10 @@
 👋 **Hello! Hallo! ¡Hola! Olá! Salut! Ciao! Saluton! Привет! 大家好！السلام عليكم**
 
-My name is *Maarten van Gompel*, also known as *proycon* on the internet.
-For more information about me, please visit [my homepage](https://proycon.anaproy.nl).
+My name is *Maarten van Gompel*, also known as *proycon* on the internet. For
+more information about me, please visit [my
+homepage](https://proycon.anaproy.nl). There I also list [my software
+projects](https://proycon.anaproy.nl/software/) and [scientific
+publications](https://proycon.anaproy.nl/publications/).
 
 I am trying to migrate off GitHub as I don't like using anything owned by
 Microsoft or US big-tech in general. You can find most of my recent projects on
