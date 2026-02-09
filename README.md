@@ -1,4 +1,4 @@
-👋 *Hello! Hallo! ¡Hola! Olá! Salut! Ciao! Saluton! Привет! 大家好！السلام عليكم *
+👋 **Hello! Hallo! ¡Hola! Olá! Salut! Ciao! Saluton! Привет! 大家好！السلام عليكم**
 
 My name is *Maarten van Gompel*, also known as *proycon* on the internet.
 For more information about me, please visit [my homepage](https://proycon.anaproy.nl).
