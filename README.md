@@ -11,7 +11,7 @@ Microsoft or US big-tech in general. You can find most of my recent projects on
 [Codeberg](https://codeberg.org/proycon) and/or
 [Sourcehut](https://git.sr.ht/~proycon) and/or [the KNAW HuC GitLab
 instance](https://gitlab.huc.knaw.nl/) (for work-related projects). Reporting issues via
-those other git forges rather than here is always preferred.
+e-mail or those other git forges rather than here is always preferred. [Patches via mail](https://git-send-email.io/) welcome too.
 
 **Main Tools:** 🐧 Linux, 🦀 Rust, 🐍 Python, 🐚 Shell, Neovim
 
