@@ -25,4 +25,4 @@ issues or patches via those other git forges rather than here is always preferre
 * [Vocage](https://git.sr.ht/~proycon/vocage) - A minimalistic spaced-repetion vocabulary trainer (flashcards) for the terminal
 * [Todo.txt more](https://git.sr.ht/~proycon/todotxt-more) - Extensions for todo.txt: interactive rofi/fzf control, sync github issues, better colors, time tracking... and more!
 
-You may also want to look at my [dotfiles](https://codeberg.org/proycon/dotfiles)
+You may also want to look at my [dotfiles](https://codeberg.org/proycon/dotfiles) or follow me on the [fediverse](https://social.anaproy.nl/@proycon).
